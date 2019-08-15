@@ -1,4 +1,4 @@
-# netent-test-project
+# test-task-nt
 for test it, need perform the next:
 
 npm i
